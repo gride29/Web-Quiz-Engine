@@ -1,5 +1,5 @@
 # Web-Quiz-Engine
-Multi-user web service for creating and solving quizzes using REST API, an embedded database, security, and other technologies.
+A small web engine for creating and passing quizzes via REST API. Based on Java and Spring Boot.
 
 # Features
 | Function  | Method | API |
