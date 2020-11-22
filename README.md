@@ -2,7 +2,6 @@
 A small web engine for creating and passing quizzes via REST API. Based on Java and Spring Boot.
 
 # Features
-The following are the APIs to work with:
 | Function  | Method | API |
 | ------------- | ------------- | ------------- |
 | Get all the quizzes  | GET  | 	/api/quizzes|
